@@ -1,0 +1,17 @@
+{
+  "name": "seraph-bug",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Milan Simonovic <mbsimonovic@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bunyan": "^1.4.0",
+    "debug": "~2.2.0",
+    "glob": "^5.0.13",
+    "seraph": "^0.13.1",
+    "when": "^3.7.3"
+  },
+  "engines": {
+    "node": "0.12.x"
+  }
+}
